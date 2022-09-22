@@ -34,8 +34,8 @@ public class BaseTest {
 		
 		
 		WebDriverManager.chromedriver().setup();
-		driver = new ChromeDriver(option);
-		
+		//driver = new ChromeDriver(option);
+		driver = new ChromeDriver();
 		
 		conf = new ReadConfigData();
 		System.out.println(conf.getApplicationURL_QA());
