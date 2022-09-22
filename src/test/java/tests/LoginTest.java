@@ -29,7 +29,7 @@ public class LoginTest extends BaseTest{
 			e.printStackTrace();
 		}
 		//after login
-		lp.verifyApplicationTitle("Dashboard / nopCommerce administration1");
+		lp.verifyApplicationTitle("Dashboard / nopCommerce administration");
 		
 		
 		
