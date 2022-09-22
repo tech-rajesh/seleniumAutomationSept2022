@@ -1,0 +1,10 @@
+2022-09-16 17:01:45,037 - NOPComm Application- module1 -INFO - Chrome browser launched.
+2022-09-16 17:01:46,827 - NOPComm Application- module1 -INFO - Application launched : https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-09-16 17:01:49,189 - NOPComm Application- module1 -INFO - verifyLogin - executuon in progress
+2022-09-16 17:01:49,256 - NOPComm Application- module1 -INFO - username - cleared
+2022-09-16 17:01:49,385 - NOPComm Application- module1 -INFO - enter username: admin@yourstore.com
+2022-09-16 17:01:49,527 - NOPComm Application- module1 -INFO - enter password: admin
+2022-09-16 17:01:53,372 - NOPComm Application- module1 -INFO - click on login button
+2022-09-16 17:01:59,409 - NOPComm Application- module1 -INFO - Validation of application title: Dashboard / nopCommerce administration
+2022-09-16 17:02:01,422 - NOPComm Application- module1 -INFO - click on logout button
+2022-09-16 17:02:08,344 - NOPComm Application- module1 -INFO - Chrome browser closed.
